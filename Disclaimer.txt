@@ -1,0 +1,3 @@
+!Disclaimer!
+
+Due to the sensitivity of the Trinity University Admissions data I have decided not to upload the excel doc used in my script. Rather this code is simply an example of my skills in R-Studio rather than a script to be ran.
